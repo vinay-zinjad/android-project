@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704520419158",
+    "firebase_url": "https://chat-app-by-vinay-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-by-vinay",
+    "storage_bucket": "chat-app-by-vinay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704520419158:android:49b114c0711ebbfb8108f7",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704520419158-0qg3dk062ibr5ufrlrl5o7h59kam049d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBie_5eWJGLqyjQhDv_AwjonDKqQXG9jug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704520419158-0qg3dk062ibr5ufrlrl5o7h59kam049d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
