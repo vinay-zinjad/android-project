@@ -1,5 +1,4 @@
 # Chat App Android
-![HeaderImage](github_images/header.png)
 
 ## Introduction
 This is a demo application built with the goal to create a fun and challenging application based on the MVVM architectural pattern.
@@ -41,31 +40,6 @@ Model-View-ViewModel (MVVM)
 
 **General:** Auto login, bottom navigation, error messages with snackbar, progress bar
 
-## Screenshots
-
-### Start | Login | Create Account
-
-<p align = "left" >
-  <img width="250" height="500" src="github_images/start.png">
-  <img width="250" height="500"  src="github_images/login.png"> 
-  <img width="250" height="500" src="github_images/create.png"> 
-</p>
-
-### Chats | Notifications | Users
-
-<p align = "left" >
-  <img width="250" height="500" src="github_images/chats.png">
-  <img width="250" height="500"  src="github_images/notifications.png"> 
-  <img width="250" height="500" src="github_images/users.png"> 
-</p>
-
-### Settings | Chat | Profile
-
-<p align = "left" >
-  <img width="250" height="500" src="github_images/settings.png">
-  <img width="250" height="500"  src="github_images/chat.png"> 
-  <img width="250" height="500" src="github_images/profile.png"> 
-</p>
 
 ### Firebase
 <p align = "left" >
