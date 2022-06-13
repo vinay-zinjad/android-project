@@ -41,11 +41,6 @@ Model-View-ViewModel (MVVM)
 **General:** Auto login, bottom navigation, error messages with snackbar, progress bar
 
 
-### Firebase
-<p align = "left" >
-  <img  width="378" height="332" src="github_images/db.png"> 
-</p>
-
 ## Setup
 #### Requirements
 * Basic knowledge about Android Studio
